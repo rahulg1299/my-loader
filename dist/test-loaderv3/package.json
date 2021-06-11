@@ -1,0 +1,19 @@
+{
+  "name": "test-loaderv3",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^12.0.3",
+    "@angular/core": "^12.0.3",
+    "@angular/material": "^12.0.4"
+  },
+  "dependencies": {
+    "tslib": "^2.1.0"
+  },
+  "main": "bundles/test-loaderv3.umd.js",
+  "module": "fesm2015/test-loaderv3.js",
+  "es2015": "fesm2015/test-loaderv3.js",
+  "esm2015": "esm2015/test-loaderv3.js",
+  "fesm2015": "fesm2015/test-loaderv3.js",
+  "typings": "test-loaderv3.d.ts",
+  "sideEffects": false
+}
